@@ -1,0 +1,15 @@
+body, html {
+	height: 100%;
+  }
+  .bg {
+	/* The image used */
+	background-image: url("https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjj5tS3z_DmAhXDAnIKHerADxoQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vectors%2Fbackground&psig=AOvVaw2krw9Ctf1W6oZdxGHX4Tb-&ust=1578456662956221");
+  
+	/* Full height */
+	height: 100%;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
